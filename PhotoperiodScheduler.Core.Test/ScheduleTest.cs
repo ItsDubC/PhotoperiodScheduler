@@ -8,7 +8,7 @@ namespace PhotoperiodScheduler.Core.Test
     [TestClass()]
     public class ScheduleTest
     {
-        private string scheduleName = "Schedule 1";
+        private string scheduleName = "Test Schedule";
  
         [TestMethod()]
         public void ScheduleConstructor_DefineName_ScheduleNameMatchesInitName()
